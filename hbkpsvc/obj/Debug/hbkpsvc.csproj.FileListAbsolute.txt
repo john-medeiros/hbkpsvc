@@ -1,0 +1,12 @@
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\bin\Debug\hbkpsvc.exe
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\bin\Debug\hbkpsvc.pdb
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\obj\Debug\hbkpsvc.csprojAssemblyReference.cache
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\obj\Debug\hbkpsvc.ProjectInstaller.resources
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\obj\Debug\hbkpsvc.csproj.GenerateResource.cache
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\obj\Debug\hbkpsvc.csproj.CoreCompileInputs.cache
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\obj\Debug\hbkpsvc.exe
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\obj\Debug\hbkpsvc.pdb
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\bin\Debug\hbkpsvc.exe.config
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\bin\Debug\AWSSDK.dll
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\bin\Debug\AWSSDK.xml
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpsvc\obj\Debug\hbkpsvc.csproj.CopyComplete

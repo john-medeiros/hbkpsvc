@@ -1,0 +1,6 @@
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpclient\bin\Release\hbkpclient.exe
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpclient\bin\Release\hbkpclient.pdb
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpclient\obj\Release\hbkpclient.csprojAssemblyReference.cache
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpclient\obj\Release\hbkpclient.csproj.CoreCompileInputs.cache
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpclient\obj\Release\hbkpclient.exe
+C:\Users\F0127173\source\repos\hbkpsvc\hbkpclient\obj\Release\hbkpclient.pdb
